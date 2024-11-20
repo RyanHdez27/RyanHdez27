@@ -1,6 +1,7 @@
 Hi, I'm Ryan Hernandez
 @RyanHdez27
 
+
 I am Colombian and I am not very good at English, but I am a technology enthusiast and a software engineering student with a solid foundation in web and software development, complemented by self-taught work. Throughout my training, I have done field internships and worked on a project as a programmer, which has allowed me to develop technical skills and face real programming challenges.
 At 24 years old, I am committed to continue learning and taking on new challenges that drive my professional growth and I am determined to constantly improve and provide effective and innovative solutions in each project I participate in.
 <br><hr>
@@ -10,6 +11,6 @@ A mis 24 años, estoy comprometido a seguir aprendiendo y asumiendo nuevos retos
 <br>
 <b>FIND ME IN INTERNET<b>    <b>ENCUENTRAME EN INTERNET<b>
 <hr>
-- Linkdin: www.linkedin.com/in/ryanhdez
-- Credly: www.credly.com/users/ryan-andrey-hernandez-galindo
+- Linkdin: www.linkedin.com/in/ryanhdez <br>
+- Credly: www.credly.com/users/ryan-andrey-hernandez-galindo <br>
 - GitHub: @RyanHdez27
