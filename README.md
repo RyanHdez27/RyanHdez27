@@ -1,6 +1,7 @@
 Hi, I'm Ryan Hernandez
 @RyanHdez27
-
+<br>
+![banner git (1)](https://github.com/user-attachments/assets/96a39c08-a93c-48c6-9b1d-644825bc1af8)
 
 I am Colombian and I am not very good at English, but I am a technology enthusiast and a software engineering student with a solid foundation in web and software development, complemented by self-taught work. Throughout my training, I have done field internships and worked on a project as a programmer, which has allowed me to develop technical skills and face real programming challenges.
 At 24 years old, I am committed to continue learning and taking on new challenges that drive my professional growth and I am determined to constantly improve and provide effective and innovative solutions in each project I participate in.
