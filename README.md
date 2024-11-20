@@ -7,6 +7,9 @@ At 24 years old, I am committed to continue learning and taking on new challenge
 Soy colombiano y no soy muy bueno con el ingles pero, soy un entusiasta de la tecnología y estudiante de ingeniería de software con una sólida base en desarrollo web y de software, complementada con trabajo autodidacta. A lo largo de mi formación he realizado prácticas de campo y trabajado en un proyecto como programador, lo que me ha permitido desarrollar habilidades técnicas y enfrentarme a retos reales de programación.
 A mis 24 años, estoy comprometido a seguir aprendiendo y asumiendo nuevos retos que impulsen mi crecimiento profesional y estoy decidido a mejorar constantemente y brindar soluciones efectivas e innovadoras en cada proyecto en el que participo.
 
-
+<br>
 <b>FIND ME IN INTERNET<b>    <b>ENCUENTRAME EN INTERNET<b>
 <hr>
+- Linkdin: www.linkedin.com/in/ryanhdez
+- Credly: www.credly.com/users/ryan-andrey-hernandez-galindo
+- GitHub: @RyanHdez27
